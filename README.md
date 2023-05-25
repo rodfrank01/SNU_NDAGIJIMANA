@@ -1,3 +1,5 @@
 # SNU_NDAGIJIMANA
 
-이번 과제 때 ..... 재현에 대해서 하겠습니다. 
+Concerning the project, I'm having trouble comprehending the contents of the guided mission. 
+Therefore, I'm working hard to understand the codes and thoroughly read the paper so that I can pick a topic and work on it effectively.
+I plan to have chosen a topic by the end of this week. 
